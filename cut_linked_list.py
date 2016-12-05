@@ -1,3 +1,5 @@
+# NOTE: This is still work-in-progress but feel free to take a look at my approach
+
 # Node = (Payload, Pointer) Address is the index in the list
 linked_list = [('A', 1), ('B', 2), ('C', 3), ('D', 4), ('E', None)]
 
